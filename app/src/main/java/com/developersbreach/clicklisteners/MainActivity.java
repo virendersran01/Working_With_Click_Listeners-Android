@@ -46,6 +46,7 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(getApplicationContext(), "You clicked the button", Toast.LENGTH_LONG).show();
     }
 
+    // This is reference to onClick attribute named as imageListener in activity_main.
     public void imageListener(View view) {
         Intent intentToAnotherActivity = new Intent(MainActivity.this, NavigateActivity.class);
         startActivity(intentToAnotherActivity);
