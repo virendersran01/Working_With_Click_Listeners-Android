@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Click Listeners</string>
+    <string name="button">Button</string>
+    <string name="by_db">by DevelopersBreach</string>
+    <string name="hello_listeners">Hello Listeners!</string>
+    <string name="you_clicked_image_listener">Image listener is working!</string>
+</resources>
